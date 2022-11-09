@@ -1,3 +1,3 @@
 <template>
-    <h1>La mia prima app con Vite!</h1>
+    <h2>La mia prima app con Vite!</h2>
 </template>
